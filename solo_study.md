@@ -14,12 +14,12 @@ Your objectives for the day are to achieve:
 
 ### Plan
 
-- [ ] Sign up for [Treehouse JavaScript Basics][treehouse-js-basics] course
-- [ ] Complete "Introducing JavaScript"
-- [ ] Complete "Storing and Tracking Information with Variables"
-- [ ] Complete "Working With Numbers"
-- [ ] Complete "Making Decisions with Conditional Statements"
-- [ ] Complete "Creating Reusable Code with Functions"
+- [x] Sign up for [Treehouse JavaScript Basics][treehouse-js-basics] course
+- [x] Complete "Introducing JavaScript"
+- [x] Complete "Storing and Tracking Information with Variables"
+- [x] Complete "Working With Numbers"
+- [x] Complete "Making Decisions with Conditional Statements"
+- [x] Complete "Creating Reusable Code with Functions"
 - [ ] Read about ["Truthy"](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and ["Falsey"](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values in this article: https://j11y.io/javascript/truthy-falsey/
 
 ### Stretch
@@ -28,7 +28,7 @@ Your objectives for the day are to achieve:
 - [ ] Watch and complete the [Front End Masters Javascript Introduction](https://frontendmasters.com/courses/javascript-basics/) (2 hours)
 - [ ] Watch the bootcamp videos in the [Core Vanilla Javascript](https://shereef.wistia.com/projects/fwy60ilf20) section
 - [ ] Read Chapters 1,2,3 of [Eloquent Javascript][el]
-- [ ] Complete [CodeCademy's Learn Javasript](https://www.codecademy.com/learn/javascript)
+- [x] Complete [CodeCademy's Learn Javasript](https://www.codecademy.com/learn/javascript)
 
 
 ## Day 2: Arrays, Objects, and lots of Practice
@@ -43,35 +43,46 @@ Today your objectives are to put in practice the concepts you learned yesterday.
 
 ### Plan
 
-- [ ] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
-  - [ ] Link to your solution here (jsbin, gist, or a js file in this repo)
-- [ ] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
- - [ ] Link to your solution here
-- [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
- - [ ] Link to your solution here
-- [ ] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
-- [ ] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
+- [x] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
+  - [x] Link to your solution here (jsbin, gist, or a js file in this repo) [Solutions: Task1](https://gist.github.com/Meisha04/33101507982083f22ebcda2a8dbd3399)
+  [Task2](https://gist.github.com/Meisha04/185c5034ad7b22bb74b1452ae0e4c42e) [Task3](https://gist.github.com/Meisha04/67ada875d2ca7d10d38a0c4934958580)
+  [Task4](https://gist.github.com/Meisha04/7bbe6636e272fab5fba8609d76c3c72f)
+  [Task5](https://gist.github.com/Meisha04/a8eda121e7911d00a1b0a7353885ba4c)
+- [x] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
+ - [x] Link to your solution here [Solutions: Task1](https://gist.github.com/Meisha04/a1b528b2744feef270113860df4a6b4e)
+ [Task2](https://gist.github.com/Meisha04/a3b68169781ebb97e5c72b99c80ff2d8)
+ [Task3](https://gist.github.com/Meisha04/29cd443c2bb1c4ee4e03ddef5b0c2625)
+ [Task4](https://gist.github.com/Meisha04/fb35c6acaf10e47a6da5bb6e48becb0e)
+ [Task5](https://gist.github.com/Meisha04/fb35c6acaf10e47a6da5bb6e48becb0e)
+- [x] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
+ - [x] Link to your solution here [Solutions: Task1](https://gist.github.com/Meisha04/dd9a47e55c2987fe0742944a6e888226)
+ [Task2](https://gist.github.com/Meisha04/199deecc1bd769a6b0bed74e054963b8)
+ [Task3](https://gist.github.com/Meisha04/4713b455df7af73a6b8d7be86a8aed78)
+ [Task4](https://gist.github.com/Meisha04/934a0817b01c192ac872ffa2fc4d796d)
+ [Task5](https://gist.github.com/Meisha04/0a54bf6b0e2c9d6bf536c5926aec4b40)
+- [x] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
+- [x] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
 
 *These next 3 steps are part of [Front End Masters JS Course](https://frontendmasters.com/courses/js-fundamentals-to-functional/). You might need to watch the videos and part of the course to make it through. Reach out to staff for an invite code if you don't already have an account.*
 
-- [ ] Complete the [Array Exercises](https://github.com/bgando/array-exercises)
-  - [ ] Link to your solution here
-- [ ] Complete the [Function Exercises](https://github.com/bgando/function-exercises)
-  - [ ] Link to your solution here
-- [ ] Complete the [Object Exercises](https://github.com/bgando/object-exercises)
-  - [ ] Link to your solution here
+- [x] Complete the [Array Exercises](https://github.com/bgando/array-exercises)
+  - [x] Link to your solution here: arrays-script.js inside root directory
+- [x]Complete the [Functions Excises](https://github.com/bgando/function-exercises)
+  - [x] Link to your solution here: functions-scripts.js inside root directory
+- [x] Complete the [Object Exercises](https://github.com/bgando/object-exercises)
+  - [x] Link to your solution here: objects-scripts.js inside root directory
 
 - Browse in the terminal to the `js-assessment` folder in this repo.
-- Run `npm install` and `npm start`, then goto `http://127.0.0.1:4444/` in your browser.
+- Run `npm install` and `npm start`, then go to  `http://127.0.0.1:4444/` in your browser.
 - You should see a bunch of failing tests
-- [ ] Update `js-asessment/app/flowControl.js` to make the section's tests pass
-- [ ] Update `js-asessment/app/logicalOperators.js` to make the section's tests pass
-- [ ] Update `js-asessment/app/logicalNumbers.js` to make the section's tests pass
+- [x] Update `js-asessment/app/flowControl.js` to make the section's tests pass
+- [x] Update `js-asessment/app/logicalOperators.js` to make the section's tests pass
+- [ ] Update `js-asessment/app/logicalNumbers.js` to make the section's tests pass: THIS FILE WAS MISSING IN THE FOLDER---UNABLE TO DO 
 
 
 ### Stretch
 
-- [ ] Complete [Free Code Camp Basic Javascript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript)
+- [x] Complete [Free Code Camp Basic Javascript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript)
 - [ ] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
 - [ ] Watch the first 11 [Fundamentals Videos](https://channel9.msdn.com/Series/JavaScript-Fundamentals-Development-for-Absolute-Beginners)
 - [ ] Read pages 173 to 184 in [Professional JS for Web Developers][projs]
@@ -82,7 +93,7 @@ Today your objectives are to put in practice the concepts you learned yesterday.
 
 Let's test our understanding by working on some Koans.
 
-*Note: It's pretty easy to make these test pass. What isn't easy is to make sure you undertand WHY they are passing, and don't move on to the next one until you do*
+*Note: It's pretty easy to make these test pass. What isn't easy is to make sure you understand WHY they are passing, and don't move on to the next one until you do*
 
 *Remember: Update this file, and commit your repo, and push to github after every step*
 
